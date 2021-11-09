@@ -1,0 +1,9 @@
+Variables. Es una forma de almacenar un valor para usar mas tarde.
+
+Strings. son cadenas de textos y deben definirse entre comillas simples o dobles
+
+Funciones (argumentos, return). son tipos de argumetos los cuales son llamados con el nombre que fueron creados y realizaras la sencias descritas en esa funcion.
+                                tienen la propiedas de ingresar valores por medio los argumentos , y retornar un resultado.
+Declaraciones if.  nos indica el flujo a seguir en la ejecucion del programa  mediante la condicion true o false.
+
+Valores booleanos (true, false).es el valor 0 y 1 lenguaje de bajo nivel que entiende  a la perfeccion una computadora. 
